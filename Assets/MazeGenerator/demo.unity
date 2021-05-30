@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45089084, g: 0.49918133, b: 0.56593907, a: 1}
+  m_IndirectSpecularColor: {r: 0.03639871, g: 0.026253382, b: 0.01011215, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -282,12 +282,12 @@ MonoBehaviour:
   Floor: {fileID: 165842, guid: 8d3b36f175a633f429d7bda54c76550d, type: 3}
   Wall: {fileID: 144206, guid: 9de82ec743bb24449a99f5cf1e325d61, type: 3}
   Pillar: {fileID: 142476, guid: f3f97a2401feba4479a301d6181e9da6, type: 3}
-  Rows: 10
-  Columns: 10
+  Rows: 20
+  Columns: 20
   CellWidth: 4
   CellHeight: 4
   AddGaps: 0
-  GoalPrefab: {fileID: 159624, guid: 850205124263c924ea0aa82f0fdf2673, type: 3}
+  GoalPrefab: {fileID: 1046642509588805093, guid: 141309a60e5b4e34697fe8e0a1ec580a, type: 3}
 --- !u!115 &999177115
 MonoScript:
   m_ObjectHideFlags: 0
@@ -895,10 +895,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2144415891}
-  m_LocalRotation: {x: 0.35073686, y: 0.65584666, z: -0.5267459, w: -0.41156733}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalRotation: {x: 0.5148122, y: 0.46714774, z: -0.36802983, w: -0.61749125}
+  m_LocalPosition: {x: 0, y: 3.48, z: 0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 23.717, y: 263.332, z: 77.443}
+  m_LocalEulerAnglesHint: {x: -16.974, y: 272.00598, z: 77.988}
