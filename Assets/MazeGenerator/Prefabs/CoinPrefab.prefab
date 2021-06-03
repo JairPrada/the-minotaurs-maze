@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: -1407077639589423586}
   - component: {fileID: 2741934183021728805}
   - component: {fileID: -5806737458242286671}
+  - component: {fileID: -6537056844918080789}
   m_Layer: 0
   m_Name: CoinPrefab
   m_TagString: Coin
@@ -83,7 +84,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1046642509588805093}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -107,6 +108,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &-6537056844918080789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046642509588805093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e8215308feb40d4d8509b41484cae8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6553415528813108070
 GameObject:
   m_ObjectHideFlags: 0
