@@ -1,9 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class ObjectInteracts : MonoBehaviour
 {
+
+
+
     public Contador contador;
     // Start is called before the first frame update
     void Start()
@@ -17,6 +22,7 @@ public class ObjectInteracts : MonoBehaviour
         {
             contador.Cantidad = contador.Cantidad + 1;
             Destroy(gameObject);
+            
         }
         
     }

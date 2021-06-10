@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu_Pausa.unity
     guid: 36b0052ed31219744baa1a48c8838634
+  - enabled: 1
+    path: Assets/Scenes/Gano.unity
+    guid: 624c61a6e806d85479ab791100a10046
+  - enabled: 1
+    path: Assets/Scenes/Perdio.unity
+    guid: 1491293ccc45b994783c58b0f83de16e
   m_configObjects: {}

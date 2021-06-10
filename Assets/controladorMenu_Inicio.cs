@@ -35,4 +35,18 @@ public class controladorMenu_Inicio : MonoBehaviour
     {
         SceneManager.LoadScene("Menu_Opciones");
     }
+
+    public void pausa()
+    {
+        SceneManager.LoadScene("Menu_Pausa");
+    }
+
+
+    public void salir()
+    {
+        Application.Quit();
+    }
+
+    
+    
 }
