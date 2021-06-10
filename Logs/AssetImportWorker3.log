@@ -1,0 +1,976 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19041.985; Version 2004; 64bit' Language: 'es' Physical Memory: 6091 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/julia/Documents/Proyecto_DesarrolloVideoJuegos/The-Minotaur-sMaze
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+53182
+Successfully changed project path to: C:/Users/julia/Documents/Proyecto_DesarrolloVideoJuegos/The-Minotaur-sMaze
+C:/Users/julia/Documents/Proyecto_DesarrolloVideoJuegos/The-Minotaur-sMaze
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/julia/Documents/Proyecto_DesarrolloVideoJuegos/The-Minotaur-sMaze/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX230 (ID=0x1d11)
+    Vendor:   
+    VRAM:     1984 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56604
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010157 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.042 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001875 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.428 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 5.538200 ms (FindLiveObjects: 0.912200 ms CreateObjectMapping: 0.519800 ms MarkObjects: 3.849300 ms  DeleteObjects: 0.251400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MazeGenerator/Minotauro/logicaMinotauro.cs
+  artifactKey: Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/logicaMinotauro.cs using Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65df9f44618eb8958b9a971aea07f208') in 0.119150 seconds
+  Import took 0.127241 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.283 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 6.483900 ms (FindLiveObjects: 0.653500 ms CreateObjectMapping: 0.181900 ms MarkObjects: 5.592100 ms  DeleteObjects: 0.051900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001078 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.230 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1596.
+Total: 3.585900 ms (FindLiveObjects: 0.204700 ms CreateObjectMapping: 0.039200 ms MarkObjects: 3.311900 ms  DeleteObjects: 0.027200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001430 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 3.161500 ms (FindLiveObjects: 0.371000 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.685100 ms  DeleteObjects: 0.024100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3066.037018 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0853c7ad0bae3e5f7599a574283c8c9') in 0.546899 seconds
+  Import took 0.552578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.780464 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd0a42eb20dde1c0e8d2513df5f5992d') in 0.132558 seconds
+  Import took 0.138411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.994554 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1c7372a84c8c416ce671d13206452a') in 0.151113 seconds
+  Import took 0.157974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.863369 seconds.
+  path: Assets/MazeGenerator/Minotauro/logicaMinotauro.cs
+  artifactKey: Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/logicaMinotauro.cs using Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2037f55f867b8199861cf0e7640cdec') in 0.005277 seconds
+  Import took 0.009131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004651 seconds.
+  path: Assets/MazeGenerator/Minotauro/logicaMinotauro.cs
+  artifactKey: Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/logicaMinotauro.cs using Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2037f55f867b8199861cf0e7640cdec') in 0.005050 seconds
+  Import took 0.009061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.103554 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cf604130fb916b4454624b1754d66c') in 0.156794 seconds
+  Import took 0.162691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.423765 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur
+  artifactKey: Guid(e31721d67f8d94343aff6f283d028cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur using Guid(e31721d67f8d94343aff6f283d028cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab5652068ad2abb040d655642a3be59') in 0.012571 seconds
+  Import took 0.021914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.659760 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead.mat
+  artifactKey: Guid(189ebe396fc343a4aa05d3b4450c5fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead.mat using Guid(189ebe396fc343a4aa05d3b4450c5fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c708876898196b3c33c2d7d6b880df') in 0.044908 seconds
+  Import took 0.052623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004078 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1.mat
+  artifactKey: Guid(6f1f544901abc1244828f74d79b1470e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1.mat using Guid(6f1f544901abc1244828f74d79b1470e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2474402de0d31dceacfcb84a701e7e') in 0.047461 seconds
+  Import took 0.051852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2.mat
+  artifactKey: Guid(e72134ec33c4d39469d000918df08b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2.mat using Guid(e72134ec33c4d39469d000918df08b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86ae772df113d76c244a466230d0d35') in 0.035524 seconds
+  Import took 0.039570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead.mat
+  artifactKey: Guid(189ebe396fc343a4aa05d3b4450c5fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead.mat using Guid(189ebe396fc343a4aa05d3b4450c5fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c708876898196b3c33c2d7d6b880df') in 0.027186 seconds
+  Import took 0.030537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.265436 seconds.
+  path: Assets/MazeGenerator/Minotauro/body1.fbx
+  artifactKey: Guid(aa0356e5be16d9f4e92ff716b4689096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/body1.fbx using Guid(aa0356e5be16d9f4e92ff716b4689096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c75a47efaeaa8f5e43a67637ce53b3a7') in 0.223664 seconds
+  Import took 0.242658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 250.995400 seconds.
+  path: Assets/MazeGenerator/Minotauro/controladorMinotauro.controller
+  artifactKey: Guid(66231c7260a35144083bce610962a1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/controladorMinotauro.controller using Guid(66231c7260a35144083bce610962a1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd26f7f83eb7fbda1e0dfe92aef101e') in 0.034547 seconds
+  Import took 0.038773 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.0 MB.
+System memory in use after: 82.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 3.170800 ms (FindLiveObjects: 0.260500 ms CreateObjectMapping: 0.051100 ms MarkObjects: 2.830200 ms  DeleteObjects: 0.026800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001191 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.0 MB.
+System memory in use after: 82.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 3.709000 ms (FindLiveObjects: 0.335300 ms CreateObjectMapping: 0.067800 ms MarkObjects: 3.266400 ms  DeleteObjects: 0.036500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 269.589660 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Base_Color.jpeg
+  artifactKey: Guid(0f967e32e7a6be2428ee4f80df1c0b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Base_Color.jpeg using Guid(0f967e32e7a6be2428ee4f80df1c0b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffcc6dd522feab2ae10aa9acb69809ec') in 0.105957 seconds
+  Import took 0.109538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1_Normal_OpenGL.jpeg
+  artifactKey: Guid(96e7fdadc2c897e4fb1e1c427d16445c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1_Normal_OpenGL.jpeg using Guid(96e7fdadc2c897e4fb1e1c427d16445c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79d1da26442f48bc3f0e77b6b28e3e9') in 0.059093 seconds
+  Import took 0.064226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Normal_OpenGL.jpeg
+  artifactKey: Guid(0d86926c7cad68848ad70aee84a81382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Normal_OpenGL.jpeg using Guid(0d86926c7cad68848ad70aee84a81382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3880c4fead9d2d288feebfdbd7443824') in 0.043760 seconds
+  Import took 0.049161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1_Base_Color.jpeg
+  artifactKey: Guid(b09a2bccb9581ac46a90fde54e9c325b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1_Base_Color.jpeg using Guid(b09a2bccb9581ac46a90fde54e9c325b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2fc3b09c13fb17ed83a0aa19045922') in 0.046182 seconds
+  Import took 0.050806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1_Roughness.jpeg
+  artifactKey: Guid(0cbf6f7290ba881448539b270546bd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarm1_Roughness.jpeg using Guid(0cbf6f7290ba881448539b270546bd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8b37a8b1752102a6e33fdd59e18d17') in 0.032043 seconds
+  Import took 0.037191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Base_Color.jpeg
+  artifactKey: Guid(0f967e32e7a6be2428ee4f80df1c0b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Base_Color.jpeg using Guid(0f967e32e7a6be2428ee4f80df1c0b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffcc6dd522feab2ae10aa9acb69809ec') in 0.022831 seconds
+  Import took 0.026251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Roughness.jpeg
+  artifactKey: Guid(62ff071d5d5f2de4b893ff4626bc66f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armoehead_Roughness.jpeg using Guid(62ff071d5d5f2de4b893ff4626bc66f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '535952c3cb4da8cdfd41c194a44f7278') in 0.023707 seconds
+  Import took 0.026776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.832590 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Base_Color.jpeg
+  artifactKey: Guid(25e43617f94003743a8d7d9431cbcc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Base_Color.jpeg using Guid(25e43617f94003743a8d7d9431cbcc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3e603504ceda36238ea9d8d466f3ed') in 0.032455 seconds
+  Import took 0.036847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Normal_OpenGL.jpeg
+  artifactKey: Guid(705f0cfe56aa17644a1f7265df1c6113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Normal_OpenGL.jpeg using Guid(705f0cfe56aa17644a1f7265df1c6113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46396f9b976c5a4e1ec3a72e8421449f') in 0.041765 seconds
+  Import took 0.046126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Base_Color.jpeg
+  artifactKey: Guid(25e43617f94003743a8d7d9431cbcc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Base_Color.jpeg using Guid(25e43617f94003743a8d7d9431cbcc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3e603504ceda36238ea9d8d466f3ed') in 0.019531 seconds
+  Import took 0.022830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Roughness.jpeg
+  artifactKey: Guid(334f2e293ac95dc4bb30170766d80dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorarn2_Roughness.jpeg using Guid(334f2e293ac95dc4bb30170766d80dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f4ce5f156a553d1524982f54d72579') in 0.027487 seconds
+  Import took 0.031292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101578 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1.mat
+  artifactKey: Guid(11b6feaf043dd8d4281db304187678de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1.mat using Guid(11b6feaf043dd8d4281db304187678de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e78dd768d98ad18f329cad4e816beaf') in 0.086522 seconds
+  Import took 0.090923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1_Normal_OpenGL.jpeg
+  artifactKey: Guid(f858314274e3b114ea948de14c1180c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1_Normal_OpenGL.jpeg using Guid(f858314274e3b114ea948de14c1180c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71452a8d4c9aa976cc5b3445557c668') in 0.023489 seconds
+  Import took 0.026832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1_Base_Color.jpeg
+  artifactKey: Guid(6a3a798ae4c551a4598c351134bddd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1_Base_Color.jpeg using Guid(6a3a798ae4c551a4598c351134bddd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce39833a7ea15c97d9a9f9314cd8b374') in 0.027166 seconds
+  Import took 0.031108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1_Roughness.jpeg
+  artifactKey: Guid(6fd96fb2e9a95be469b7fedb87e45a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg1_Roughness.jpeg using Guid(6fd96fb2e9a95be469b7fedb87e45a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f266b09480a1941959052a70a4dc17') in 0.025950 seconds
+  Import took 0.029645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059946 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2.mat
+  artifactKey: Guid(55851c00b97dceb4cb32d5cf66a0387c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2.mat using Guid(55851c00b97dceb4cb32d5cf66a0387c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbea0cef840b31cda7132abd21994240') in 0.049332 seconds
+  Import took 0.053777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.774266 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e8bf9cb7a72a03efd1bac7553d1325') in 0.204071 seconds
+  Import took 0.209860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.818726 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6ae79e3d5616354eb26bde999677bb') in 0.141413 seconds
+  Import took 0.146592 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.0 MB.
+System memory in use after: 82.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 3.745100 ms (FindLiveObjects: 0.368500 ms CreateObjectMapping: 0.080900 ms MarkObjects: 3.259500 ms  DeleteObjects: 0.034100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.123667 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fcad3bb4e02b89e4e7e82931905d28c') in 0.264303 seconds
+  Import took 0.269929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 364.756713 seconds.
+  path: Assets/MazeGenerator/Minotauro/logicaMinotauro.cs
+  artifactKey: Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/logicaMinotauro.cs using Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c5fab7f4ca0496c6db90e9892ae1f1') in 0.004495 seconds
+  Import took 0.008707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003337 seconds.
+  path: Assets/MazeGenerator/Minotauro/logicaMinotauro.cs
+  artifactKey: Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/logicaMinotauro.cs using Guid(ab073843224f72140adbbe9161965828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c5fab7f4ca0496c6db90e9892ae1f1') in 0.004873 seconds
+  Import took 0.007968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.559772 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2_Base_Color.jpeg
+  artifactKey: Guid(b0633441ca0ff234abfc417ce43d1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2_Base_Color.jpeg using Guid(b0633441ca0ff234abfc417ce43d1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00bb880c0088b6f0bb0876f4f8fffa02') in 0.035470 seconds
+  Import took 0.039128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2_Normal_OpenGL.jpeg
+  artifactKey: Guid(0ab2ecdd7ee3f624bba327fafa99d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2_Normal_OpenGL.jpeg using Guid(0ab2ecdd7ee3f624bba327fafa99d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd32f2b3b3351ab4a89dc93966e011c') in 0.033671 seconds
+  Import took 0.037397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2_Roughness.jpeg
+  artifactKey: Guid(6e1898138a5326c408d597b1cb09b6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/armorleg2_Roughness.jpeg using Guid(6e1898138a5326c408d597b1cb09b6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a80766e253d3f7c7a9269823b6a19cb') in 0.027691 seconds
+  Import took 0.032168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.370396 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/body.mat
+  artifactKey: Guid(7c957ae88a59ba54598c0742d547fbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/body.mat using Guid(7c957ae88a59ba54598c0742d547fbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7194ef974eadc7fb6e1cd5250bd15fb9') in 0.047369 seconds
+  Import took 0.053130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.428211 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/body_Base_Color.jpg
+  artifactKey: Guid(852ca71a206c2274faad887161e6f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/body_Base_Color.jpg using Guid(852ca71a206c2274faad887161e6f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb7125b0ba8f250f8845140e9c825df') in 0.025415 seconds
+  Import took 0.029444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/body_Roughness.jpg
+  artifactKey: Guid(1b9844be33c662742937597154c893c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/body_Roughness.jpg using Guid(1b9844be33c662742937597154c893c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bffd6705ea3e69add5472667b3f75e4c') in 0.024525 seconds
+  Import took 0.028413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/MazeGenerator/Minotauro/TexturesMinotaur/body_Normal_OpenGL.jpg
+  artifactKey: Guid(d70ff52105fa0a04e8f6f68a7d066f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/TexturesMinotaur/body_Normal_OpenGL.jpg using Guid(d70ff52105fa0a04e8f6f68a7d066f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f141ca9a2d4085c080a8e4c9cc9b430') in 0.026250 seconds
+  Import took 0.029604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.184813 seconds.
+  path: Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx
+  artifactKey: Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/Minotaur@Atack.fbx using Guid(dfc32a88ce1712b48b3241ac77a5861b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '984934c67c1ebf2c9b8a471bd5036732') in 0.151972 seconds
+  Import took 0.156942 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001037 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.125 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.1 MB.
+System memory in use after: 82.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1661.
+Total: 2.919500 ms (FindLiveObjects: 0.225800 ms CreateObjectMapping: 0.040700 ms MarkObjects: 2.628800 ms  DeleteObjects: 0.021800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001029 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.148 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.1 MB.
+System memory in use after: 82.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1664.
+Total: 4.070400 ms (FindLiveObjects: 0.269400 ms CreateObjectMapping: 0.070800 ms MarkObjects: 3.632000 ms  DeleteObjects: 0.094700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001477 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.255 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1667.
+Total: 3.436800 ms (FindLiveObjects: 0.427500 ms CreateObjectMapping: 0.149900 ms MarkObjects: 2.825700 ms  DeleteObjects: 0.030600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001313 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 2.896500 ms (FindLiveObjects: 0.224100 ms CreateObjectMapping: 0.039400 ms MarkObjects: 2.604100 ms  DeleteObjects: 0.026600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001934 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.824 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1673.
+Total: 3.390100 ms (FindLiveObjects: 0.299300 ms CreateObjectMapping: 0.059300 ms MarkObjects: 3.004100 ms  DeleteObjects: 0.024700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 821.362378 seconds.
+  path: Assets/MazeGenerator/Minotauro/controladorMinotauro.controller
+  artifactKey: Guid(66231c7260a35144083bce610962a1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Minotauro/controladorMinotauro.controller using Guid(66231c7260a35144083bce610962a1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98f0bdaff1a51028b92ef9e78fb2d1f') in 0.037089 seconds
+  Import took 0.042175 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001307 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1676.
+Total: 3.074200 ms (FindLiveObjects: 0.272200 ms CreateObjectMapping: 0.052400 ms MarkObjects: 2.727100 ms  DeleteObjects: 0.020300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.160 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1679.
+Total: 3.070300 ms (FindLiveObjects: 0.421800 ms CreateObjectMapping: 0.127400 ms MarkObjects: 2.483800 ms  DeleteObjects: 0.034100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.367000 seconds.
+  path: Assets/Personajes/Scripts/PlayerMove.cs
+  artifactKey: Guid(464fdc4a403f93146815eea664dbb9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personajes/Scripts/PlayerMove.cs using Guid(464fdc4a403f93146815eea664dbb9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '876b1a505b86ee7f0145ea975dc8ddd8') in 0.020166 seconds
+  Import took 0.024251 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.103 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1682.
+Total: 2.230100 ms (FindLiveObjects: 0.226200 ms CreateObjectMapping: 0.033900 ms MarkObjects: 1.947800 ms  DeleteObjects: 0.019600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001223 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.147 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1685.
+Total: 4.084000 ms (FindLiveObjects: 0.377800 ms CreateObjectMapping: 0.082200 ms MarkObjects: 3.589200 ms  DeleteObjects: 0.031800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 4.058700 ms (FindLiveObjects: 0.474100 ms CreateObjectMapping: 0.143400 ms MarkObjects: 3.412100 ms  DeleteObjects: 0.025700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.328 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 2.416800 ms (FindLiveObjects: 0.212900 ms CreateObjectMapping: 0.036500 ms MarkObjects: 2.142000 ms  DeleteObjects: 0.023800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1694.
+Total: 2.598200 ms (FindLiveObjects: 0.238000 ms CreateObjectMapping: 0.041000 ms MarkObjects: 2.295900 ms  DeleteObjects: 0.021400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001103 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.221 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1697.
+Total: 2.305300 ms (FindLiveObjects: 0.209500 ms CreateObjectMapping: 0.035300 ms MarkObjects: 2.039200 ms  DeleteObjects: 0.019200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001035 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.194 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 3.109700 ms (FindLiveObjects: 0.348000 ms CreateObjectMapping: 0.053200 ms MarkObjects: 2.681700 ms  DeleteObjects: 0.024600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1344.578858 seconds.
+  path: Assets/MazeGenerator/Prefabs/CoinPrefab.prefab
+  artifactKey: Guid(141309a60e5b4e34697fe8e0a1ec580a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Prefabs/CoinPrefab.prefab using Guid(141309a60e5b4e34697fe8e0a1ec580a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9726d979045d68eb94ecf12da0a438c') in 0.130006 seconds
+  Import took 0.133496 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001137 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1704.
+Total: 2.940100 ms (FindLiveObjects: 0.226600 ms CreateObjectMapping: 0.035200 ms MarkObjects: 2.654700 ms  DeleteObjects: 0.022100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001571 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.219 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1707.
+Total: 3.381900 ms (FindLiveObjects: 0.420100 ms CreateObjectMapping: 0.134600 ms MarkObjects: 2.787600 ms  DeleteObjects: 0.037200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 505.083344 seconds.
+  path: Assets/MazeGenerator/Scripts/OldestTreeMazeGenerator.cs
+  artifactKey: Guid(736ceabe7f0d3fe4da41501b34435e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Scripts/OldestTreeMazeGenerator.cs using Guid(736ceabe7f0d3fe4da41501b34435e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63674bc84b491cb4d69bee39ed53a020') in 0.025105 seconds
+  Import took 0.030429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/MazeGenerator/Scripts/OldestTreeMazeGenerator.cs
+  artifactKey: Guid(736ceabe7f0d3fe4da41501b34435e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeGenerator/Scripts/OldestTreeMazeGenerator.cs using Guid(736ceabe7f0d3fe4da41501b34435e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63674bc84b491cb4d69bee39ed53a020') in 0.004455 seconds
+  Import took 0.007418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 169.167049 seconds.
+  path: Assets/ObjectInteracts.cs
+  artifactKey: Guid(4e8215308feb40d4d8509b41484cae8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjectInteracts.cs using Guid(4e8215308feb40d4d8509b41484cae8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35cc3bb455bcbde3fa182745c2a6e757') in 0.012632 seconds
+  Import took 0.015548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001587 seconds.
+  path: Assets/ObjectInteracts.cs
+  artifactKey: Guid(4e8215308feb40d4d8509b41484cae8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjectInteracts.cs using Guid(4e8215308feb40d4d8509b41484cae8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35cc3bb455bcbde3fa182745c2a6e757') in 0.005874 seconds
+  Import took 0.008952 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1710.
+Total: 2.154000 ms (FindLiveObjects: 0.214800 ms CreateObjectMapping: 0.034000 ms MarkObjects: 1.884600 ms  DeleteObjects: 0.018500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001873 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.2 MB.
+System memory in use after: 82.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1713.
+Total: 3.182700 ms (FindLiveObjects: 0.261500 ms CreateObjectMapping: 0.080700 ms MarkObjects: 2.811300 ms  DeleteObjects: 0.027300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

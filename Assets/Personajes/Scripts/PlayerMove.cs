@@ -9,6 +9,13 @@ public class PlayerMove : MonoBehaviour
     public Animator animator;
     private float x,y;
 
+    void OnTriggerEnter(Collider coll)
+    {
+        if (coll.gameObject.name == "body1")
+        {
+            print("Daño");
+        }
+    }
     // Update is called once per frame
     void Update()
     {
