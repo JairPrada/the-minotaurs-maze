@@ -6,19 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu_Dificultad.unity
+    path: Assets/Scenes/Menus/Menu_Dificultad.unity
     guid: e3dff8ddb61ee9241b9d0f0d6e9af6a0
   - enabled: 1
-    path: Assets/Scenes/Menu_Inicio.unity
+    path: Assets/Scenes/Menus/Menu_Inicio.unity
     guid: af84c9ccad0879244a521496bcc73026
-  - enabled: 1
-    path: Assets/Scenes/principal.unity
+  - enabled: 0
+    path: Assets/Scenes/Dificultades/principal.unity
     guid: 68179cf8337b1d6469c497488f88f6c2
   - enabled: 1
-    path: Assets/Scenes/Menu_Opciones.unity
+    path: Assets/Scenes/Menus/Menu_Opciones.unity
     guid: c5e550d9d024c2f4483df6c8e8ecf5cc
   - enabled: 1
-    path: Assets/Scenes/Menu_Pausa.unity
+    path: Assets/Scenes/Menus/Menu_Pausa.unity
     guid: 36b0052ed31219744baa1a48c8838634
   - enabled: 1
     path: Assets/Scenes/Gano.unity
@@ -26,4 +26,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Perdio.unity
     guid: 1491293ccc45b994783c58b0f83de16e
+  - enabled: 1
+    path: Assets/Scenes/Dificultades/Dificil.unity
+    guid: 9e1a6f52644324f45bd567ec1d9798df
+  - enabled: 1
+    path: Assets/Scenes/Dificultades/Facil.unity
+    guid: f451efdac275621448fc9285c24ddbfc
+  - enabled: 1
+    path: Assets/Scenes/Dificultades/Imposible.unity
+    guid: 9f84c8304af36e246a2d313dd6c0dbb1
+  - enabled: 1
+    path: Assets/Scenes/Dificultades/Media.unity
+    guid: 908b891bdf4c4d5498b6635488fe6177
   m_configObjects: {}

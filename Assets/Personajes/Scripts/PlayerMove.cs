@@ -12,16 +12,18 @@ public class PlayerMove : MonoBehaviour
     private float x, y;
     public int Vidas = 10;
     public Text textVidas;
-
+    public GameObject sonidoMuerte;
+    public GameObject sonidoGolpe;
     void OnTriggerEnter(Collider coll)
     {
         if (coll.gameObject.name == "body1")
         {
             print("Daño");
             Vidas = Vidas - 1;
-
+            Instantiate(sonidoGolpe);
             if (Vidas < 0)
             {
+                Instantiate(sonidoMuerte);
                 SceneManager.LoadScene("Perdio");
             }
         }
