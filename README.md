@@ -2,10 +2,10 @@
 Videojuego realizado en el motor de videojuegos Unity, seguimiento de personaje, generacion aleatoria de laberintos y de items el objetivo del videojuego es escapar del minotauro mientras recolectas todas las llaves ubicadas en el laberinto.
 
 ## Historia
-La historia transcurre en la antigua Grecia, justo en el fin de la guerra entre el reinado de Creta y la ciudad estado de Atenas, causada por la muerte del hijo del rey Minos,
+*La historia transcurre en la antigua Grecia, justo en el fin de la guerra entre el reinado de Creta y la ciudad estado de Atenas, causada por la muerte del hijo del rey Minos,
 soberano de Creta, en unas olimpiadas celebradas en Atenas.Después de que el rey Minos ganara la guerra, este le impuso una condición los atenienses, la cual consistía en que 
 cada siete años la ciudad debía entregar siete jóvenesvarones y siete doncellas, para que fuesen alimento del
-temible Minotauro.
+temible Minotauro.*
 
 ## Imagenes del Gameplay
 
