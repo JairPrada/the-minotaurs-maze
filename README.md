@@ -10,11 +10,11 @@ temible Minotauro.*
 ## Imagenes del Gameplay
 
 <div  align="center" style="display:flex;justify-content:center;">
-<img alt="img1" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/1.jpg" width="400"/>
-<img alt="img2" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/2.jpg" width="400"/>
-<img alt="img3" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/3.jpg" width="400"/>
-<img alt="img4" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/4.jpg" width="400"/>
-<img alt="img5" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/5.jpg" width="400"/>
+<img alt="img1" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/img/1.jpg" width="400"/>
+<img alt="img2" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/img/2.jpg" width="400"/>
+<img alt="img3" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/img/3.jpg" width="400"/>
+<img alt="img4" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/img/4.jpg" width="400"/>
+<img alt="img5" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/img/5.jpg" width="400"/>
 </div>
 
 ## **Dicicultades**
