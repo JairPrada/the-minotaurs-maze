@@ -1,7 +1,8 @@
 # The-Minotaur-sMaze 
 Videojuego realizado en el motor de videojuegos Unity, seguimiento de personaje, generacion aleatoria de laberintos y de items el objetivo del videojuego es escapar del minotauro mientras recolectas todas las llaves ubicadas en el laberinto.
 <img alt="img1" src="https://raw.githubusercontent.com/JairPrada/The-Minotaur-sMaze/master/Work%20in%20progress.png" width="400"/>
-
+<img alt="img1" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/Work%20in%20progress%201%20(1).png" width="400"/>
+<img alt="img1" src="https://github.com/JairPrada/The-Minotaur-sMaze/blob/master/Work%20in%20progress%201.png" width="400"/>
 
 ## Historia
 *La historia transcurre en la antigua Grecia, justo en el fin de la guerra entre el reinado de Creta y la ciudad estado de Atenas, causada por la muerte del hijo del rey Minos,
